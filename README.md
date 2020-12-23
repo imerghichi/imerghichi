@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CI/CD </br>
 - 👯 I’m looking to collaborate on any project related to web </br> 
 - 💬 Ask me about anything </br>
-- 📫 How to reach me: **imane.merghichi@gmail.com** </br>
+- 📫 How to reach me: <a href="mailto:imane.merghichi@gmail.com">By e-mail </a> </br>
 - 😄 Pronouns: She/Her </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imerghichi&show_icons=true" alt="imerghichi" /></p>
 <p align= "left">
