@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning CI/CD </br>
 - 👯 I’m looking to collaborate on any project related to web </br> 
 - 💬 Ask me about anything </br>
-- :bird: Here is my <a href="https://www.kaggle.com/imerghichi/">Kaggle</a>
+- :bird: Here is my <a href="https://www.kaggle.com/imerghichi/">Kaggle</a> </br>
 - 📫 How to reach me: <a href="mailto:imane.merghichi@gmail.com">By e-mail </a> </br>
 - 😄 Pronouns: She/Her </br>
 - :gift_heart: <a href="https://enumbers-1.web.app/">My last work</a>
