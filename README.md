@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer Student passionate about web development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imerghichi" alt="imerghichi" /> </p>
 - :tickets: See some snipets on my <a href = "https://gist.github.com/imerghichi">gist</a></br>
-- 🌱 I’m currently learning CI/CD </br>
+- 🌱 I’m currently learning ML / AI </br>
 - 👯 I’m looking to collaborate on any project related to web </br> 
 - 💬 Ask me about anything </br>
 - :bird: Here is my <a href="https://www.kaggle.com/imerghichi/">Kaggle</a> </br>
