@@ -1,14 +1,11 @@
 <h1 align="center">Hello World! I'm Imane</h1>
 <h3 align="center">A Software Engineer passionate about web development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imerghichi" alt="imerghichi" /> </p>
-- :tickets: See some snipets on my <a href = "https://gist.github.com/imerghichi">gist</a></br>
-- 🌱 I’m currently learning ML / AI </br>
-- 👯 I’m looking to collaborate on any project related to web </br> 
+- :tickets: See some snipets on my <a href = "https://gist.github.com/imerghichi">gist</a></br>  
 - 💬 Ask me about anything </br>
 - :bird: Here is my <a href="https://www.kaggle.com/imerghichi/">Kaggle</a> </br>
 - 📫 How to reach me: <a href="mailto:imane.merghichi@gmail.com">By e-mail </a> </br>
 - 😄 Pronouns: She/Her </br>
-- :gift_heart: <a href="https://enumbers-1.web.app/">My last work</a></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imerghichi&show_icons=true" alt="imerghichi" /></p>
 <p align= "left">
