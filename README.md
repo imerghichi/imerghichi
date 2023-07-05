@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Imane</h1>
-<h3 align="center">Passionate Software</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imerghichi" alt="imerghichi" /> </p>
 - :tickets: See some snipets on my <a href = "https://gist.github.com/imerghichi">gist</a></br>  
 - 💬 Ask me about anything </br>
